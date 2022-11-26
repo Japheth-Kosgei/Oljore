@@ -6,10 +6,15 @@ One of the characteristics of architects is their love for infographics. This pr
 "Oljore" is a African word for "friend". As the name suggest, this project is meant to be friend of an architect.
 
 ## Areas of interest
+- Accomodation Schedules.
 - Case studies.
 - Climatic analysis.
 
 ## Objectives
+### Accomodation Schedule
+- Provide a user experience for creating and editing accomodation schedules and presenting/printing them.
+- Include a feature of calculating space areas.
+
 ### Case studies
 - Enable the architect to produce a location map of the building being studied.
 - Do a climatic analysis of that location.
@@ -24,6 +29,8 @@ One of the characteristics of architects is their love for infographics. This pr
 - Prepare printable beautiful dashboards which can be easily consumed by the architect. The dashboards should contain the charts and the analysis.
 
 ## Resources
+#### Bioclimatic Chart
 ![Bioclimatic Chart](https://user-images.githubusercontent.com/74491890/204089632-02bc7611-c495-47bf-b43c-6ef97e53d05c.png)
+#### Psychrometric Chart
 ![Psychrometric Chart](https://user-images.githubusercontent.com/74491890/204089679-635f49c4-2539-4b25-b4f1-28add1053c61.png)
 
