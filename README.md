@@ -35,8 +35,6 @@ One of the characteristics of architects is their love for infographics. This pr
 ![Psychrometric Chart](https://user-images.githubusercontent.com/74491890/204089679-635f49c4-2539-4b25-b4f1-28add1053c61.png)
 #### Weather Data Source
 [EPW map](https://www.ladybug.tools/epwmap/)
-#### Andrew Marsh Website
-[Andrew Marsh Website]http://andrewmarsh.com/
 
 ## Future Considerations
 - Architect's Data Database
