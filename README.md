@@ -24,7 +24,6 @@ One of the characteristics of architects is their love for infographics. This pr
 - Parse the data into a meaningful format/frame for analysis.
 - Analyse the data based on comfort scales i.e. psychrometric chart and bioclimatic chart.
 - Provide insights for the architect to use using Mahoney tables.
-- Prepare a solar chart for
 - Design and automatically produce graphs and charts.
 - Prepare printable beautiful dashboards which can be easily consumed by the architect. The dashboards should contain the charts and the analysis.
 
